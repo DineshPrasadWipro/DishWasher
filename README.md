@@ -7,5 +7,5 @@ Wrote unit test cases to ensure code is bug free
 ## Challenges faced
 Fetching price details and setting in main product list
 ## Suggestion
-If price details can add in grid api then no need to call product details api for every product inorder to get
+If price details can be added in grid api then no need to call product details api for every product inorder to get
 price details
